@@ -1,4 +1,5 @@
-1)<img width="1908" height="1121" alt="image" src="https://github.com/user-attachments/assets/90aec450-a5f4-417b-8639-063f92c9d857" />
+##Задание1
+<img width="1908" height="1121" alt="image" src="https://github.com/user-attachments/assets/90aec450-a5f4-417b-8639-063f92c9d857" />
 докер и докер компоуз установленны и образ скачен
 <img width="1916" height="718" alt="image" src="https://github.com/user-attachments/assets/146b412d-af23-4885-8c2d-08a5d939e63b" />
 образ создан
@@ -47,6 +48,20 @@
 пушнул в локальный реджистри образ
 <img width="1312" height="953" alt="image" src="https://github.com/user-attachments/assets/94527d46-82da-4d40-aecd-af6668b3697b" />
 произвёл начальную настройку портейнера
+<img width="1918" height="795" alt="image" src="https://github.com/user-attachments/assets/8bba25c2-44c0-4027-aa53-24e25d2a19c5" />
+задеплоил представленный компоуз
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/5ce71565-1b0e-4a34-b6ea-0778d57558b9" />
+часть 1
+<img width="1912" height="685" alt="image" src="https://github.com/user-attachments/assets/38557987-5f6f-47e8-a85d-9cfe3e7357ae" />
+часть 2 сделал скриншот от поля "AppArmorProfile" до "Driver".
+<img width="1917" height="213" alt="image" src="https://github.com/user-attachments/assets/1dfb2d5f-9c07-4cd2-b543-2f2ad12c9def" />
+Предупреждение говорит о том что нашлись контейнеры которые не привязаны к компоузу 
+<img width="1900" height="198" alt="image" src="https://github.com/user-attachments/assets/2442461a-4d61-4d41-af16-67c07f4769bf" />
+контейнеры погашены 1 командой 
+
+
+
+
 
 
 
