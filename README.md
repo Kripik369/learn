@@ -8,5 +8,18 @@
 
 компоуз установлен
 
+##задача1
+
+<img width="1894" height="924" alt="image" src="https://github.com/user-attachments/assets/7f43e32f-5bc9-4734-9243-165fde6488db" />
+
+создан форк
+
+<img width="1381" height="277" alt="image" src="https://github.com/user-attachments/assets/5357ba84-195f-4f27-ac82-acdfe1ed12ef" />
+
+запустил приложение с помошью venv (mysql в контейнере ), прокси запущены
+
+<img width="1450" height="84" alt="image" src="https://github.com/user-attachments/assets/24e1a593-d813-4535-b9b1-614eccd92237" />
+
+5000
 
 
