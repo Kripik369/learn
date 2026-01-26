@@ -46,13 +46,34 @@ dockerignore создан
 
 ##Задача3
 
-<img width="1456" height="695" alt="image" src="https://github.com/user-attachments/assets/58e67fcf-f8ca-4d78-8d31-4574a82734a2" />
+<img width="1861" height="710" alt="image" src="https://github.com/user-attachments/assets/5f764107-6c84-4180-8cf0-bd87ceefe329" />
+
 
 описаны сервисы
 
 <img width="1796" height="880" alt="image" src="https://github.com/user-attachments/assets/5f6f0d00-fcf8-4608-ab07-9516445c6c9a" />
 
 всё запущено
+
+<img width="1115" height="75" alt="image" src="https://github.com/user-attachments/assets/61f462f7-2ccd-4201-a0f7-3cbf6b77055e" />
+
+приложение курлится
+
+<img width="1245" height="337" alt="image" src="https://github.com/user-attachments/assets/ddc8d70c-76fa-4ce7-9b54-349415b98e26" />
+
+успешное подключение к БД
+
+<img width="1336" height="678" alt="image" src="https://github.com/user-attachments/assets/959970ad-cbff-43bb-9975-679a6bad0974" />
+
+записи в бд присутствую
+
+<img width="1905" height="259" alt="image" src="https://github.com/user-attachments/assets/47c21c4c-8e77-4583-abfe-6b93a85e349f" />
+
+проект остановлен
+
+
+
+
 
 
 
