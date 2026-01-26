@@ -42,9 +42,7 @@ dockerignore создан
 
 <img width="1375" height="273" alt="image" src="https://github.com/user-attachments/assets/33ea197d-bce1-489c-b6e2-e072a323d2c4" />
 
-тегнул и залил образ
-
-
+тегнул и залил образ и загрузил отчет сканирования в  мой репо
 
 
 
