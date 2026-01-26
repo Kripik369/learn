@@ -14,6 +14,18 @@
 
 создан форк
 
+<img width="1462" height="694" alt="image" src="https://github.com/user-attachments/assets/6ed799f3-e3d8-4381-84b8-cdf19db9a96b" />
+
+докерфайл создан
+
+<img width="877" height="489" alt="image" src="https://github.com/user-attachments/assets/7f27b2e4-842c-40da-9ea0-2a1fa9a348d8" />
+
+dockerignore создан
+
+<img width="1478" height="491" alt="image" src="https://github.com/user-attachments/assets/40ea338f-f047-4548-805c-cefd281c2fb6" />
+
+сборка проверена
+
 <img width="1381" height="277" alt="image" src="https://github.com/user-attachments/assets/5357ba84-195f-4f27-ac82-acdfe1ed12ef" />
 
 запустил приложение с помошью venv (mysql в контейнере ), прокси запущены
