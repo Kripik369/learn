@@ -34,4 +34,19 @@ dockerignore создан
 
 5000
 
+##Задача2
+
+<img width="892" height="198" alt="image" src="https://github.com/user-attachments/assets/18f52175-1192-4437-bd1d-adfe55ffc87c" />
+
+создан контейнер регистри
+
+<img width="1375" height="273" alt="image" src="https://github.com/user-attachments/assets/33ea197d-bce1-489c-b6e2-e072a323d2c4" />
+
+тегнул и залил образ
+
+
+
+
+
+
 
