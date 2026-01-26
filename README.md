@@ -44,7 +44,15 @@ dockerignore создан
 
 тегнул и залил образ и загрузил отчет сканирования в  мой репо
 
+##Задача3
 
+<img width="1456" height="695" alt="image" src="https://github.com/user-attachments/assets/58e67fcf-f8ca-4d78-8d31-4574a82734a2" />
+
+описаны сервисы
+
+<img width="1796" height="880" alt="image" src="https://github.com/user-attachments/assets/5f6f0d00-fcf8-4608-ab07-9516445c6c9a" />
+
+всё запущено
 
 
 
