@@ -71,6 +71,11 @@ dockerignore создан
 
 проект остановлен
 
+##Задача4
+
+<img width="1466" height="698" alt="image" src="https://github.com/user-attachments/assets/fcd7f1ac-e90d-47d3-9e96-80003b77072e" />
+
+ВМ на яндексе создана и на ней докер
 
 
 
