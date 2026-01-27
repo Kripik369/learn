@@ -77,6 +77,28 @@ dockerignore создан
 
 ВМ на яндексе создана и на ней докер
 
+<img width="1245" height="229" alt="image" src="https://github.com/user-attachments/assets/27b6aa9a-dab3-4baf-b970-179e1c669be1" />
+
+написал скрипт 
+
+<img width="1461" height="617" alt="image" src="https://github.com/user-attachments/assets/ca4455cf-9aaf-491d-b81a-f037e2bbcf98" />
+
+запустил его
+
+<img width="1476" height="248" alt="image" src="https://github.com/user-attachments/assets/0a374f67-c25e-4db0-b1dc-97966913bfa4" />
+
+скрипт отработал
+
+<img width="1485" height="1072" alt="image" src="https://github.com/user-attachments/assets/79fca9d5-3828-42b7-a6e3-e09d11bc7031" />
+
+сервис доступен 
+
+<img width="1243" height="350" alt="image" src="https://github.com/user-attachments/assets/497c86e6-3530-4e4c-baaf-cc52e58a349b" />
+
+результат sql запроса
+
+
+
 
 
 
