@@ -114,8 +114,10 @@ https://github.com/Kripik369/shvirtd-example-python/tree/main
 
  скопировал через docker save 
 
+##задание 6.1
+
 <img width="1488" height="348" alt="image" src="https://github.com/user-attachments/assets/cee46763-7929-4b46-8823-68b8ab1f7de1" />
 
-
+скопировал через docker cp 
 
 
