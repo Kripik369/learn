@@ -96,10 +96,25 @@ dockerignore создан
 <img width="1243" height="350" alt="image" src="https://github.com/user-attachments/assets/497c86e6-3530-4e4c-baaf-cc52e58a349b" />
 
 результат sql запроса
+https://github.com/Kripik369/shvirtd-example-python/tree/main
 
+##Задача5
 
+##задача6
 
+<img width="1027" height="241" alt="image" src="https://github.com/user-attachments/assets/1c28b22a-7e7f-44ce-8d0e-f63157cfcad0" />
 
+скачал образ
+
+<img width="1484" height="708" alt="image" src="https://github.com/user-attachments/assets/51d9756e-c6e5-4d8b-a7b4-5db66df10e8b" />
+
+посмотрел через dive
+
+<img width="1291" height="277" alt="image" src="https://github.com/user-attachments/assets/f8310ba5-69d8-4050-8dd2-1b8fdd573a68" />
+
+ скопировал через docker save 
+
+<img width="1488" height="348" alt="image" src="https://github.com/user-attachments/assets/cee46763-7929-4b46-8823-68b8ab1f7de1" />
 
 
 
