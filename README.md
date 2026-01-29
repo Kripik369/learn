@@ -16,3 +16,11 @@
 <img width="1907" height="743" alt="image" src="https://github.com/user-attachments/assets/9f3053f3-0bf7-4ab3-a499-34bc6ff82301" />
 
 приложение запущено но тк компоуз файлы не адаптированы под swarm оно не работает мне не говорили как с этим работать , минималку сделал
+
+<img width="1891" height="843" alt="image" src="https://github.com/user-attachments/assets/c961e6f7-17b2-48b4-955f-0e2fa2c710a8" />
+
+кластер полностью удалён 
+
+##Задача3 
+
+с ansible знаком но не с terraform
