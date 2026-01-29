@@ -7,4 +7,6 @@
 
 докер установлен на всех машинах вот 1 пример
 
+<img width="1472" height="209" alt="image" src="https://github.com/user-attachments/assets/ced72270-0a3a-4d3b-8e39-bdb6be5f08bb" />
 
+кластер создан
