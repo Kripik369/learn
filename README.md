@@ -10,3 +10,9 @@
 <img width="1472" height="209" alt="image" src="https://github.com/user-attachments/assets/ced72270-0a3a-4d3b-8e39-bdb6be5f08bb" />
 
 кластер создан
+
+##задача2
+
+<img width="1907" height="743" alt="image" src="https://github.com/user-attachments/assets/9f3053f3-0bf7-4ab3-a499-34bc6ff82301" />
+
+приложение запущено но тк компоуз файлы не адаптированы под swarm оно не работает мне не говорили как с этим работать , минималку сделал
